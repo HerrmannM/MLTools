@@ -23,8 +23,8 @@ In Eclipse, this error can be silenced in the preferences.
 Search for `Forbidden reference`, select `Compiler: Errors/Warnings` and set it to `ignore` or `warning`.
 
 ## Contributors
-* [Dr. François Petitjean](https://github.com/fpetitjean)
+* [Dr François Petitjean](https://github.com/fpetitjean)
 * [He Zhang](https://github.com/icesky0125)
-* [Dr. Matthieu Herrmann](https://github.com/HerrmannM)
-* [Dr. Nayyar Zaidi](https://github.com/nayyarzaidi)
+* [Dr Matthieu Herrmann](https://github.com/HerrmannM)
+* [Dr Nayyar Zaidi](https://github.com/nayyarzaidi)
 
