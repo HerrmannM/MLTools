@@ -1,4 +1,4 @@
-<project name="monashMLTools" default="mkjar" basedir=".">
+<project name="MLTools" default="mkjar" basedir=".">
 	
 	<!-- Properties -->
 	<property name="src" 	location="src"/>
