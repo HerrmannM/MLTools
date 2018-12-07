@@ -1,6 +1,6 @@
-package monash.ml.tools.arff;
+package mltools.arff;
 
-import static monash.ml.tools.arff.Utility.*;
+import static mltools.arff.Utility.*;
 
 import java.io.IOException;
 import java.nio.file.Path;

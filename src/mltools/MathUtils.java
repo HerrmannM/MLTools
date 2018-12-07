@@ -1,4 +1,4 @@
-package monash.ml.tools;
+package mltools;
 
 import org.apache.commons.math3.random.RandomGenerator;
 import org.apache.commons.math3.util.FastMath;

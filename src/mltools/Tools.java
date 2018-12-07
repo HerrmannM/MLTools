@@ -1,4 +1,4 @@
-package monash.ml.tools;
+package mltools;
 
 
 public class Tools {

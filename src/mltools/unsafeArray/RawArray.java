@@ -1,4 +1,4 @@
-package monash.ml.tools.unsafeArray;
+package mltools.unsafeArray;
 
 import sun.misc.Unsafe;
 import java.lang.reflect.Field;

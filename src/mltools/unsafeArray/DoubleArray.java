@@ -1,4 +1,4 @@
-package monash.ml.tools.unsafeArray;
+package mltools.unsafeArray;
 
 /**
  * Array of double based on raw memory.

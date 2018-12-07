@@ -1,4 +1,4 @@
-package monash.ml.tools.arff;
+package mltools.arff;
 
 import java.io.File;
 import java.io.IOException;
